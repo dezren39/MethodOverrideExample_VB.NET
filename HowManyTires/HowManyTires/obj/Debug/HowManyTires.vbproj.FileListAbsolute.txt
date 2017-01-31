@@ -1,0 +1,10 @@
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.HowManyTires.resources
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\HowManyTires.vbproj.GenerateResource.Cache
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.pdb
